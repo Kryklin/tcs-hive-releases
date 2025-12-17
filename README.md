@@ -1,5 +1,13 @@
 # 🚀 Release Notes
 
+## v0.0.4
+**Released**: 2025-12-17
+
+- Automated release build.
+- See commit history for changes.
+
+---
+
 ## v0.0.3
 **Released**: 2025-12-16
 
